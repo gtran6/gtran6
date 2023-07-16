@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everything related to Android**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gtran6](https://github.com/gtran6)
+- 👨‍💻 Most of my projects are available at [https://github.com/gtran6](https://github.com/gtran6)
 
 - 📫 How to reach me **gtran2537@gmail.com**
 
